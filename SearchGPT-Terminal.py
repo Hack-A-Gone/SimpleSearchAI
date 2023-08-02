@@ -14,7 +14,7 @@ os.system('cls')
 engine = pyttsx3.init()
 
 # Replace YOUR_POE_TOKEN with your actual Poe API token
-POE_API_TOKEN = "fPwMYnsEJQPGF9TApupasg%3D%3D"
+POE_API_TOKEN = "APITOKEN"
 
 def Talk(Text):
     engine.say(Text)
