@@ -2,8 +2,6 @@
 
 SimpleSearchAI is an AI-powered chatbot that allows users to interact with an AI using text-based queries. It utilizes the PoeAI API for generating responses and is designed to provide search results, answer questions, and perform various tasks based on user input.
 
-![SimpleSearchAI](images/simplesearchai.jpg)
-
 ## Features
 
 - Text-based interaction with the AI.
