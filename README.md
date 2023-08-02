@@ -25,7 +25,7 @@ Follow these steps to set up and use SimpleSearchAI:
 
 Here's a roadmap of features and improvements planned for SimpleSearchAI:
 
-- [ ] Implement a natural language understanding system for more intuitive interactions.
+- [X] Implement a natural language understanding system for more intuitive interactions.
 - [ ] Enhance search algorithm to provide more accurate and relevant results.
 - [ ] Develop a more dynamic response generation mechanism.
 - [ ] Integrate with multiple search engines to broaden search capabilities.
@@ -33,6 +33,7 @@ Here's a roadmap of features and improvements planned for SimpleSearchAI:
 - [ ] Implement image generation capabilities to provide visual responses.
 - [ ] Investigate sentiment analysis APIs for personalized responses.
 - [ ] Explore options for hosting and deploying the AI as a web service.
+- [ ] Increase Security.
 
 ## Contributing
 
